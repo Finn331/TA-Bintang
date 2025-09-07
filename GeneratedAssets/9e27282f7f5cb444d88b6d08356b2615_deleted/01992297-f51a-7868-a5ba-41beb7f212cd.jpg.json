@@ -1,0 +1,20 @@
+{
+    "asset": "9e27282f7f5cb444d88b6d08356b2615",
+    "fileName": "01992297-f51a-7868-a5ba-41beb7f212cd.jpg",
+    "prompt": "cartoony pencil",
+    "negativePrompt": "",
+    "model": "94c4260f-b988-40e7-b3d3-435b9f449bd0",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "7a8ce119e1b8996817a75f50454dfbf2",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
